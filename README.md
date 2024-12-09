@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Kevin López Verdin 👋
+Soy un desarrollador **Full Stack** apasionado por la tecnología y el aprendizaje constante. Disfruto crear soluciones innovadoras para proyectos web y móviles. Aquí hay un poco más sobre mí:
 
-<!--
-**dlopez69/dlopez69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Actualmente trabajo en **aplicaciones web con React y Node.js** y **aplicaciones móviles con React Native**.
+- 🌱 Actualmente estoy aprendiendo **Docker** y **TypeScript** para mejorar mis habilidades en desarrollo moderno.
+- 💻 Mis lenguajes favoritos son **JavaScript**, **Java** y **Python**.
+- 🎯 Mi objetivo: Convertirme en un experto en **desarrollo de software web y móvil**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías
+- **Lenguajes:** JavaScript, TypeScript, Python, PHP.
+- **Frameworks:** React, Node.js, Express, Laravel.
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB.
+- **Herramientas:** Git, Docker, Figma.
